@@ -9,6 +9,8 @@ Time of purchase patterns (making sure last-minute purchases are expensive)
 Keeping the flight as full as they want it (raising prices on a flight which is filling up in order to reduce sales and hold back inventory for those expensive last-minute 
 expensive purchases)
 
+# EDA Concluding Remarks
+
 
 ![image](https://user-images.githubusercontent.com/67465039/115984533-29998780-a5c5-11eb-97ef-aa0388f7e326.png))
 
@@ -21,7 +23,7 @@ The above barplot shows the price of traveling through each airlines the price h
 
 The above barplot shows that the flight with maximum number of stopages has higher price.
 
-# EDA Concluding Remarks
+
 
 The datasets contains 1 null value in the Additional Information column after removing it there was no null value present in the datasets.
 
