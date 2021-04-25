@@ -1,5 +1,7 @@
 # Flight-Price-Prediction
 
+# Problem Statement
+
 Anyone who has booked a flight ticket knows how unexpectedly the prices vary. Airlines use using sophisticated quasi-academic tactics which they call "revenue management" or 
 "yield management". The cheapest available ticket on a given flight gets more and less expensive over time. This usually happens as an attempt to maximize revenue based on -
 
@@ -18,6 +20,18 @@ The above barplot shows the price of traveling through each airlines the price h
 
 
 The above barplot shows that the flight with maximum number of stopages has higher price.
+
+# EDA Concluding Remarks
+
+The datasets contains 1 null value in the Additional Information column after removing it there was no null value present in the datasets.
+
+Jet airways airlines has more number of flights and  Indigo airlines is on second number.
+
+There were outliers present in some of the columns  such as : Airlines, and price columns.
+
+Route is positively corelated with Journey Mont column.
+
+price column is highly negatively corelated with the Total_Stops column, and is positively corelated with the duration column
 
 
 # Result
