@@ -8,3 +8,19 @@ Keeping the flight as full as they want it (raising prices on a flight which is 
 expensive purchases)
 
 
+![image](https://user-images.githubusercontent.com/67465039/115984533-29998780-a5c5-11eb-97ef-aa0388f7e326.png))
+
+
+The above barplot shows the price of traveling through each airlines the price hike of jet airways is maximum as they provide good service with comfort.
+
+
+![image](https://user-images.githubusercontent.com/67465039/115984630-ccea9c80-a5c5-11eb-9107-b1d7f5118bb8.png)
+
+
+The above barplot shows that the flight with maximum number of stopages has higher price.
+
+
+# Result
+
+
+
