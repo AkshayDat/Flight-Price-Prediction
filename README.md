@@ -22,5 +22,7 @@ The above barplot shows that the flight with maximum number of stopages has high
 
 # Result
 
+The Random Forest regressor and the GradientBoostingRegressor are giving the good accuracy.
+
 
 
